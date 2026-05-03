@@ -5,6 +5,11 @@ This project analyzes the Maven Movies database using SQL to answer key business
 Maven Movies is a DVD rental business with multiple stores, customers, and a large film inventory. The analysis simulates questions from a potential buyer evaluating the company’s performance and value.
 ## Dataset Source & Overview:
 ## Methodology:
+- **Data Exploration:** Reviewed tables to understand structure and relationships.
+- **Data Integration:** Joined multiple tables using JOINS to connect key data and gain insights.
+- **Aggregation:** Used COUNT, SUM, and AVG with GROUP BY for summaries.
+- **Data Transformation:** Created metrics like customer lifetime value and award counts.
+- **Advanced Queries:** Applied subqueries and UNION for complex analysis.
 ## SQL Queries:
 ![View Full SQL Queries](maven_movies_queries.sql)
 ## Key Insights & Recommendations:

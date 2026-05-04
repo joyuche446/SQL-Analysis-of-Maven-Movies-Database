@@ -19,6 +19,8 @@ Maven Movies is a DVD rental business with multiple stores, customers, and a lar
 - Customer 526 (Karl Seal) and Customer 148 (Eleanor Hunt) as the most valuable customers, with total lifetime rentals and payments of 45 rentals / $221.55 and 46 rentals / $216.54 respectively.
 - The company has a governance structure consisting of 4 advisors and 3 investors, providing strategic oversight and investment support.
 ### Recommendations
+- Align inventory distribution with customer demand by validating rental patterns across film ratings.
+- Retain high-value customers like Karl Seal and Eleanor Hunt to sustain revenue concentration.
 ## Skills Demonstrated:
 - **Advanced SQL:** Multi-table joins, subqueries, UNION, and query optimization
 - **Data Aggregation:** GROUP BY with COUNT, SUM, AVG
